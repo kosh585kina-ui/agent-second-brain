@@ -7,7 +7,7 @@ updated: 2025-02-11
 
 # Weekly Focus — Неделя 7/52
 
-## ONE Big Thing
+## ONE Big Thing1
 
 > **If I accomplish nothing else, I will:**
 > Запустить beta-версию "Зелёного календаря" для первых 10 тестировщиков
