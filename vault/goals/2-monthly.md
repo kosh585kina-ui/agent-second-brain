@@ -1,59 +1,62 @@
 ---
+---
 type: monthly
-period: YYYY-MM
-updated: YYYY-MM-DD
+period: 2025-02
+updated: 2025-02-11
 ---
 
-# Monthly Focus
+# Monthly Focus — Февраль 2025
 
 ## Top 3 Priorities
 
-### Priority 1: [Your Top Priority]
-<!-- What MUST happen this month? -->
+### Priority 1: Запустить "Зелёный календарь" в публичный доступ
+<!-- Основная цель Q1 — запустить MVP -->
 
-**Why it matters:** [connection to yearly goal]
+**Why it matters:** Переход от разработки к реальным пользователям. Без запуска не будет фидбека и дохода.
 
 **Key Actions:**
-- [ ] Action 1
-- [ ] Action 2
-- [ ] Action 3
+- [ ] Завершить все критичные баги
+- [ ] Подготовить страницу запуска в Telegram
+- [ ] Запустить первую рекламную кампанию (тестовую)
 
-**Definition of Done:** [clear outcome]
+**Definition of Done:** Продукт доступен пользователям, первые 20-50 установок получены.
 
 ---
 
-### Priority 2: [Second Priority]
+### Priority 2: Стабилизировать n8n/туризм
+<!-- Второй источник дохода -->
 
-**Why it matters:** [connection to yearly goal]
+**Why it matters:** Диверсификация дохода. n8n должен приносить хоть какие-то деньги параллельно с календарём.
 
 **Key Actions:**
-- [ ] Action 1
-- [ ] Action 2
-- [ ] Action 3
+- [ ] Проверить все автоматизации на работоспособность
+- [ ] Найти 1-2 новых клиента или улучшить текущие процессы
+- [ ] Настроить систему отчётности
 
-**Definition of Done:** [clear outcome]
+**Definition of Done:** n8n работает стабильно, есть план монетизации или первые $100-300 дохода.
 
 ---
 
-### Priority 3: [Third Priority]
+### Priority 3: Настроить AI-агента для контент-завода
+<!-- Автоматизация маркетинга -->
 
-**Why it matters:** [connection to yearly goal]
+**Why it matters:** Сократить время на рутину, больше времени на продукт. AI должен помогать с контентом.
 
 **Key Actions:**
-- [ ] Action 1
-- [ ] Action 2
-- [ ] Action 3
+- [ ] Определить что именно автоматизировать (посты, рассылки?)
+- [ ] Настроить базовый AI-агент
+- [ ] Протестировать на одной площадке
 
-**Definition of Done:** [clear outcome]
+**Definition of Done:** AI-агент генерирует контент, я только проверяю и публикую.
 
 ---
 
 ## NOT Doing This Month
 
-<!-- What are you consciously saying NO to? -->
--
--
--
+<!-- Сознательно говорю НЕТ этим вещам -->
+- Браться за новые проекты до запуска "Зелёного календаря"
+- Тратить время на обучение не связанное с текущими задачами
+- Перфекционизм — лучше сделать и запустить, чем доводить до идеала
 
 ---
 
@@ -61,10 +64,10 @@ updated: YYYY-MM-DD
 
 | Week | Progress | Blockers | Adjustments |
 |------|----------|----------|-------------|
-| W1 | | | |
-| W2 | | | |
-| W3 | | | |
-| W4 | | | |
+| W1 (3-9 фев) | | | |
+| W2 (10-16 фев) | | | |
+| W3 (17-23 фев) | | | |
+| W4 (24-28 фев) | | | |
 
 ---
 
@@ -86,10 +89,10 @@ updated: YYYY-MM-DD
 
 ## Links
 
-- [[0-vision-3y]] - 3-year vision
-- [[1-yearly-2025]] - Annual goals
-- [[3-weekly]] - This week's plan
+- [[0-vision-3y]] - Видение на 3 года
+- [[1-yearly-2025]] - Цели на 2025
+- [[3-weekly]] - План на неделю
 
 ---
 
-*Next Review: End of month*
+*Next Review: End of February*

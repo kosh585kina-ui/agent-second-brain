@@ -1,9 +1,3 @@
 {
-  "mcpServers": {
-    "todoist": {
-      "type": "stdio",
-      "command": "npx",
-      "args": ["-y", "@doist/todoist-ai"]
-    }
-  }
+  "mcpServers": {}
 }

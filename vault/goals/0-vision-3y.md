@@ -1,16 +1,16 @@
 ---
+t---
 type: vision
 horizon: 3-years
-period: 2025-2027
-updated: YYYY-MM-DD
+period: 2026-2028
+updated: 2025-12-27
 ---
 
-# Vision 2025-2027
+# Vision 2026-2028
 
 ## Life Mission
 
-<!-- Your life direction in one sentence -->
-<!-- Example: "Build meaningful technology while maintaining balance across health, relationships, and personal growth." -->
+Создавать успешные мини-аппы в Telegram, достичь финансовой независимости и наслаждаться балансом между работой и жизнью на природе.
 
 ---
 
@@ -19,89 +19,89 @@ updated: YYYY-MM-DD
 ### Career & Business
 
 **3-Year Vision:**
-<!-- Where do you want to be professionally in 3 years? -->
+Стабильный доход $5000/месяц от 5-7 успешных мини-аппов. Эксперт в Telegram мини-аппах. AI-автоматизация маркетинга и продаж.
 
 **Key Milestones:**
-- [ ] Milestone 1
-- [ ] Milestone 2
-- [ ] Milestone 3
+- [ ] 2026: Запустить "Зелёный календарь" и получить первых платных пользователей
+- [ ] 2027: 3-4 работающих продукта, доход $2000-3000/месяц
+- [ ] 2028: 5-7 продуктов, стабильный доход $5000/месяц
 
 ---
 
 ### Health & Energy
 
 **3-Year Vision:**
-<!-- What does your ideal health look like? -->
+Сохранять энергию через баланс работы (утро/вечер) и отдыха. Больше времени в саду и на природе.
 
 **Key Milestones:**
-- [ ] Milestone 1
-- [ ] Milestone 2
-- [ ] Milestone 3
+- [ ] 2026: Установить чёткий режим работы без выгорания
+- [ ] 2027: Регулярные перерывы на работу в саду
+- [ ] 2028: Полный баланс — работа не вытесняет природу
 
 ---
 
 ### Relationships & Family
 
 **3-Year Vision:**
-<!-- How do you want your relationships to evolve? -->
+Стабильность и спокойствие. Дети живут отдельно, самостоятельные. Всё как сейчас, без больших изменений.
 
 **Key Milestones:**
-- [ ] Milestone 1
-- [ ] Milestone 2
-- [ ] Milestone 3
+- [ ] 2026: Поддерживать связь с детьми
+- [ ] 2027: Стабильные отношения в семье
+- [ ] 2028: Всё остаётся как есть
 
 ---
 
 ### Personal Growth
 
 **3-Year Vision:**
-<!-- What skills, habits, or mindset changes do you want? -->
+Стать экспертом в Telegram мини-аппах (возможно Max). Освоить AI-автоматизацию для маркетинга и продаж.
 
 **Key Milestones:**
-- [ ] Milestone 1
-- [ ] Milestone 2
-- [ ] Milestone 3
+- [ ] 2026: Глубже изучить API Telegram, запустить первый продукт
+- [ ] 2027: Внедрить AI-агентов для маркетинга
+- [ ] 2028: Эксперт в мини-аппах, возможно переход на Max
 
 ---
 
 ### Financial
 
 **3-Year Vision:**
-<!-- What does financial security look like for you? -->
+Финансовая независимость — $5000/месяц стабильного дохода. Работаю над тем что интересно, не думаю о деньгах.
 
 **Key Milestones:**
-- [ ] Milestone 1
-- [ ] Milestone 2
-- [ ] Milestone 3
+- [ ] 2026: Первый доход от "Зелёного календаря" ($500-1000/мес)
+- [ ] 2027: Стабильный доход $2000-3000/месяц
+- [ ] 2028: Финансовая независимость $5000/месяц
 
 ---
 
 ### Creativity & Joy
 
 **3-Year Vision:**
-<!-- What brings you joy? How will you nurture it? -->
+Красивый ухоженный сад. Ландшафтный дизайн как творческая отдушина и источник радости.
 
 **Key Milestones:**
-- [ ] Milestone 1
-- [ ] Milestone 2
-- [ ] Milestone 3
+- [ ] 2026: Начать большой проект в саду
+- [ ] 2027: Сад приобретает желаемый вид
+- [ ] 2028: Красивый законченный ландшафт
 
 ---
 
 ## Quarterly Review Questions
 
-1. Which goals still align with my values?
-2. What has changed that affects these goals?
-3. What am I willing to sacrifice to achieve these?
-4. Who can help me?
+1. Какие цели всё ещё соответствуют моим ценностям?
+2. Что изменилось и влияет на эти цели?
+3. Что я готова принести в жертву ради этих целей?
+4. Кто может мне помочь?
 
 ---
 
 ## Links
 
-- [[1-yearly-2025]] - This year's goals
-- [[2-monthly]] - Current month focus
-- [[3-weekly]] - This week's plan
+- [[1-yearly-2025]] - Цели на этот год
+- [[2-monthly]] - Фокус на месяц
+- [[3-weekly]] - План на неделю
 
 ---
 

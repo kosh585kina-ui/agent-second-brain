@@ -1,25 +1,26 @@
 ---
+---
 type: weekly
-week: YYYY-WWW
-updated: YYYY-MM-DD
+week: 2025-W07
+updated: 2025-02-11
 ---
 
-# Weekly Focus
+# Weekly Focus — Неделя 7/52
 
 ## ONE Big Thing
 
 > **If I accomplish nothing else, I will:**
-> [Single most important outcome for this week]
+> Запустить beta-версию "Зелёного календаря" для первых 10 тестировщиков
 
-<!-- This is read by the bot during daily processing -->
+<!-- Это читает бот при обработке ежедневных записей -->
 
 ---
 
 ## Week at a Glance
 
-**Week:** [X] of 52
-**Energy Level:** [High/Medium/Low]
-**Available Hours:** [X] hours focused work
+**Week:** 7 of 52
+**Energy Level:** Medium (вторник уже идёт)
+**Available Hours:** 20-25 часов сфокусированной работы (утро + вечер)
 
 ---
 
@@ -27,53 +28,53 @@ updated: YYYY-MM-DD
 
 ### Must Do (Non-negotiable)
 
-- [ ] Task 1 — Связь: [[1-yearly-2025#Goal]]
-- [ ] Task 2
-- [ ] Task 3
+- [ ] Завершить критичные баги в "Зелёном календаре" — Связь: [[1-yearly-2025#Запустить Зелёный календарь]]
+- [ ] Создать landing page или пост для набора beta-тестировщиков
+- [ ] Найти первых 10 тестировщиков и отправить им доступ
 
 ### Should Do (Important)
 
-- [ ] Task 1
-- [ ] Task 2
+- [ ] Проверить работу n8n-автоматизации для туризма
+- [ ] Настроить базовую аналитику для календаря (кто использует)
 
 ### Could Do (If time permits)
 
-- [ ] Task 1
-- [ ] Task 2
+- [ ] Начать изучать AI-агентов для контент-завода
+- [ ] Обновить план на март
 
 ---
 
 ## Daily Plan
 
-### Monday
+### Monday (10 фев) — уже прошёл
 
-- [ ] Task 1
-- [ ] Task 2
+- [x] Вернулась к проекту после выходных
+- [x] Оценила что осталось доделать
 
-### Tuesday
+### Tuesday (11 фев) — СЕГОДНЯ
 
-- [ ] Task 1
-- [ ] Task 2
+- [ ] Исправить 2-3 главных бага
+- [ ] Написать текст для поста о наборе тестировщиков
 
-### Wednesday
+### Wednesday (12 фев)
 
-- [ ] Task 1
-- [ ] Task 2
+- [ ] Дописать баги если остались
+- [ ] Опубликовать пост, начать набор тестировщиков
 
-### Thursday
+### Thursday (13 фев)
 
-- [ ] Task 1
-- [ ] Task 2
+- [ ] Ответить первым откликнувшимся
+- [ ] Выдать доступ первым 5 тестировщикам
 
-### Friday
+### Friday (14 фев)
 
-- [ ] Task 1
-- [ ] Task 2
+- [ ] Собрать первый фидбек
+- [ ] Набрать остальных 5 тестировщиков (всего 10)
 
-### Weekend
+### Weekend (15-16 фев)
 
-- [ ] Rest / Family time
-- [ ] Optional task
+- [ ] Отдых, сад
+- [ ] Опционально: просмотреть фидбек если будет
 
 ---
 
@@ -81,8 +82,8 @@ updated: YYYY-MM-DD
 
 | Day | Time | Event | Prep |
 |-----|------|-------|------|
-| Mon | | | |
-| Tue | | | |
+| Wed | Вечер | Публикация поста о тестировщиках | Подготовить текст |
+| Fri | Вечер | Первый фидбек от тестировщиков | Форма для отзывов |
 
 ---
 
@@ -90,9 +91,9 @@ updated: YYYY-MM-DD
 
 | Habit | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |-------|-----|-----|-----|-----|-----|-----|-----|
-| [Habit 1] | | | | | | | |
-| [Habit 2] | | | | | | | |
-| [Habit 3] | | | | | | | |
+| Работа утром | ✅ | | | | | — | — |
+| Работа вечером | ✅ | | | | | — | — |
+| Время в саду | ✅ | | | | | ✅ | ✅ |
 
 ---
 
@@ -112,16 +113,16 @@ updated: YYYY-MM-DD
 
 ### Next Week Focus
 
->
+> Собрать фидбек от 10 тестировщиков и начать доработку перед публичным запуском
 
 ---
 
 ## Links
 
-- [[2-monthly]] - Monthly priorities
-- [[1-yearly-2025]] - Yearly goals
-- Previous: [[3-weekly-YYYY-WXX]]
+- [[2-monthly]] - Приоритеты на февраль
+- [[1-yearly-2025]] - Цели на год
+- Previous: [[3-weekly-2025-W06]]
 
 ---
 
-*Week Started: YYYY-MM-DD*
+*Week Started: 2025-02-10*

@@ -14,15 +14,14 @@
 
 ## Work Domains → Categories
 
-Based on user's work context (see [ABOUT.md](ABOUT.md)):
+На основе вашего контекста работы (см. [ABOUT.md](ABOUT.md)):
 
-### Client Work
-Брифы, стратегии, креатив, кампании, KPI, предложения
+### Мои Проекты
+Разработка мини-аппов, ботов, технические задачи, запуск продуктов
 
-<!-- Добавьте имена ваших клиентов через запятую -->
-**Keywords:** [Your Client Names], клиент, бриф, презентация, дедлайн, KPI
+**Keywords:** Зелёный календарь, мини-апп, бот, n8n, туризм, контент-завод, Telegram, запуск
 
-**→ Category:** task (p1-p2) → Todoist
+**→ Category:** task (p1-p2) → daily notes
 
 ### AI & Tech
 Инструменты, модели, промпты, пайплайны, агенты
@@ -32,64 +31,68 @@ Based on user's work context (see [ABOUT.md](ABOUT.md)):
 **→ Category:** learning или project → thoughts/
 
 ### Product
-Идеи, гипотезы, MVP, юнит-экономика
+Идеи, гипотезы, MVP, монетизация
 
 **Keywords:** продукт, SaaS, MVP, гипотеза, монетизация, юнит-экономика, стартап
 
 **→ Category:** idea или project → thoughts/
 
-### Company Ops
-Команда, процессы, автоматизация, найм, управление, финансы
+### Бизнес-процессы
+Финансы, клиенты, управление проектами
 
-<!-- Замените [Your Company] на название вашей компании/проекта -->
-**Keywords:** команда, найм, процесс, HR, финансы, [Your Company]
+**Keywords:** финансы, клиент, доход, оплата, договор, встреча
 
-**→ Category:** task или project (depends on urgency)
+**→ Category:** task или project (зависит от срочности)
 
-### Content
-Посты, идеи, тезисы для Telegram и LinkedIn
+### Контент
+Посты, идеи, материалы для продвижения
 
-<!-- Замените [@your_channel] на ваш Telegram-канал или удалите если не нужно -->
-**Keywords:** пост, [@your_channel], LinkedIn, контент, тезис, статья
+**Keywords:** пост, контент, статья, продвижение, маркетинг
 
 **→ Category:** idea → thoughts/ideas/ или task если с дедлайном
+
+### Личное
+Сад, ландшафт, семья, хобби
+
+**Keywords:** сад, растения, ландшафт, дети, личное
+
+**→ Category:** reflection → thoughts/reflections/
 
 ---
 
 ## Decision Tree
-
 ```
-Entry text contains...
+Текст записи содержит...
 │
-├─ Client brand or deadline? ────────────────────> TASK (p1-p2)
-│  ([Your Clients], клиент, дедлайн, презентация)
+├─ Название проекта или дедлайн? ────────────────> TASK (p1-p2)
+│  (Зелёный календарь, n8n, контент-завод, срочно)
 │
-├─ Operational/urgent? ──────────────────────────> TASK (p2-p3)
+├─ Операционное/срочное? ────────────────────────> TASK (p2-p3)
 │  (нужно сделать, не забыть, позвонить, встреча)
 │
-├─ AI/tech learning? ────────────────────────────> LEARNING
-│  (узнал, модель, агент, интеграция)
+├─ Обучение AI/tech? ────────────────────────────> LEARNING
+│  (узнала, модель, агент, интеграция)
 │
-├─ Product/SaaS idea? ───────────────────────────> IDEA или PROJECT
+├─ Идея продукта? ───────────────────────────────> IDEA или PROJECT
 │  (продукт, MVP, гипотеза, SaaS)
 │
-├─ Strategic thinking? ──────────────────────────> PROJECT
-│  (стратегия, план, R&D, долгосрочно)
+├─ Стратегическое планирование? ─────────────────> PROJECT
+│  (стратегия, план, долгосрочно, развитие)
 │
-├─ Personal insight? ────────────────────────────> REFLECTION
-│  (понял, осознал, философия)
+├─ Личные размышления? ──────────────────────────> REFLECTION
+│  (поняла, осознала, личное)
 │
-└─ Content idea? ────────────────────────────────> IDEA
-   (пост, тезис, контент)
+└─ Идея для контента? ───────────────────────────> IDEA
+   (пост, материал, продвижение)
 ```
 
 ## Apply Decision Filters
 
-Перед сохранением спроси:
-- Это масштабируется?
-- Это можно автоматизировать?
-- Это усиливает экспертизу или бренд?
-- Это приближает к продукту или SaaS?
+Перед сохранением проверь:
+- Принесёт ли это деньги?
+- Интересно ли мне это?
+- Есть ли у меня время (утро/вечер)?
+- Поможет ли это финансовой независимости?
 
 Если да на 2+ вопроса → повысить приоритет.
 
@@ -97,14 +100,15 @@ Entry text contains...
 
 ## Photo Entries
 
-For `[photo]` entries:
+Для записей `[photo]`:
 
-1. Analyze image content via vision
-2. Determine domain:
-   - Screenshot клиентского материала → Client Work
+1. Проанализировать содержимое через vision
+2. Определить домен:
+   - Скриншот проектных материалов → Мои Проекты
    - Схема/диаграмма → AI & Tech или Product
    - Текст/статья → Learning
-3. Add description to daily file
+   - Растения/сад → Личное
+3. Добавить описание в daily file
 
 ---
 
@@ -112,9 +116,9 @@ For `[photo]` entries:
 
 | Category | Destination | Priority |
 |----------|-------------|----------|
-| task (client) | Todoist | p1-p2 |
-| task (ops) | Todoist | p2-p3 |
-| task (content) | Todoist | p3-p4 |
+| task (проекты) | daily notes | p1-p2 |
+| task (бизнес) | daily notes | p2-p3 |
+| task (контент) | daily notes | p3-p4 |
 | idea | thoughts/ideas/ | — |
 | reflection | thoughts/reflections/ | — |
 | project | thoughts/projects/ | — |
@@ -123,43 +127,40 @@ For `[photo]` entries:
 ---
 
 ## File Naming
-
 ```
 thoughts/{category}/{YYYY-MM-DD}-short-title.md
 ```
 
-Examples:
+Примеры:
 ```
-thoughts/ideas/2024-12-16-saas-pricing-model.md
-thoughts/projects/2024-12-16-ai-agents-pipeline.md
-thoughts/learnings/2024-12-16-claude-mcp-setup.md
+thoughts/ideas/2024-12-27-monetizaciya-kalendar.md
+thoughts/projects/2024-12-27-n8n-turizm-pipeline.md
+thoughts/learnings/2024-12-27-telegram-miniapp-api.md
 ```
 
 ---
 
 ## Thought Structure
 
-Use preferred format:
-
+Используй предпочитаемый формат:
 ```markdown
 ---
 date: {YYYY-MM-DD}
 type: {category}
-domain: {Client Work|AI & Tech|Product|Agency Ops|Content}
+domain: {Мои Проекты|AI & Tech|Product|Бизнес|Контент|Личное}
 tags: [tag1, tag2]
 ---
 
-## Context
+## Контекст
 [Что привело к мысли]
 
-## Insight
+## Инсайт
 [Ключевая идея]
 
-## Implication
-<!-- Замените [Your Company] на название вашей компании -->
-[Что это значит для [Your Company]/продукта/стратегии]
+## Что это значит
+[Для моих проектов/финансовой независимости]
 
-## Next Action
+## Следующее действие
 [Конкретный шаг — не абстрактный]
 ```
 
@@ -167,10 +168,10 @@ tags: [tag1, tag2]
 
 ## Anti-Patterns (ИЗБЕГАТЬ)
 
-При создании мыслей НЕ делать:
-- Абстрактные рассуждения без Next Action
-- Академическая теория без применения к вашему проекту/продукту
-- Повторы без синтеза (кластеризуй похожие!)
+При создании записей НЕ делать:
+- Абстрактные рассуждения без конкретного действия
+- Академическая теория без применения к проектам
+- Повторы без синтеза (группируй похожие!)
 - Хаотичные списки без приоритетов
 - Задачи типа "подумать о..." (конкретизируй!)
 
@@ -178,16 +179,16 @@ tags: [tag1, tag2]
 
 ## MOC Updates
 
-After creating thought file, add link to:
+После создания файла мысли, добавить ссылку в:
 ```
 MOC/MOC-{category}s.md
 ```
 
-Group by domain when relevant:
+Группировать по доменам:
 ```markdown
 ## AI & Tech
-- [[2024-12-16-claude-mcp-setup]] - MCP integration
+- [[2024-12-27-telegram-miniapp-api]] - API для мини-аппов
 
-## Product
-- [[2024-12-16-saas-pricing-model]] - Pricing research
+## Мои Проекты
+- [[2024-12-27-zelenyj-kalendar-zapusk]] - План запуска
 ```
